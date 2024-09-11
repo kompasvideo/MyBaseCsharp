@@ -1,0 +1,12 @@
+/Users/andrejbarysnikov/RiderProjects/BaseC#/MyException/MyException/bin/Debug/MyException.exe
+/Users/andrejbarysnikov/RiderProjects/BaseC#/MyException/MyException/bin/Debug/MyException.pdb
+/Users/andrejbarysnikov/RiderProjects/BaseC#/MyException/MyException/obj/Debug/MyException.csproj.AssemblyReference.cache
+/Users/andrejbarysnikov/RiderProjects/BaseC#/MyException/MyException/obj/Debug/MyException.csproj.CoreCompileInputs.cache
+/Users/andrejbarysnikov/RiderProjects/BaseC#/MyException/MyException/obj/Debug/MyException.exe
+/Users/andrejbarysnikov/RiderProjects/BaseC#/MyException/MyException/obj/Debug/MyException.pdb
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/MyException/MyException/bin/Debug/MyException.exe
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/MyException/MyException/bin/Debug/MyException.pdb
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/MyException/MyException/obj/Debug/MyException.csproj.AssemblyReference.cache
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/MyException/MyException/obj/Debug/MyException.csproj.CoreCompileInputs.cache
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/MyException/MyException/obj/Debug/MyException.exe
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/MyException/MyException/obj/Debug/MyException.pdb

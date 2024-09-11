@@ -1,0 +1,14 @@
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/bin/Debug/net8.0/AppStruct
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/bin/Debug/net8.0/AppStruct.deps.json
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/bin/Debug/net8.0/AppStruct.runtimeconfig.json
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/bin/Debug/net8.0/AppStruct.dll
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/bin/Debug/net8.0/AppStruct.pdb
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.AssemblyInfoInputs.cache
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.AssemblyInfo.cs
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.csproj.CoreCompileInputs.cache
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.dll
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/refint/AppStruct.dll
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.pdb
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/AppStruct.genruntimeconfig.cache
+/Users/andrejbarysnikov/RiderProjects/AppStruct/AppStruct/obj/Debug/net8.0/ref/AppStruct.dll

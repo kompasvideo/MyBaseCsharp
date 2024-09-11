@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppStruct", "AppStruct\AppStruct.csproj", "{D7B6983E-20EF-42FF-9EAF-8CCFA57A44EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7B6983E-20EF-42FF-9EAF-8CCFA57A44EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B6983E-20EF-42FF-9EAF-8CCFA57A44EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B6983E-20EF-42FF-9EAF-8CCFA57A44EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B6983E-20EF-42FF-9EAF-8CCFA57A44EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

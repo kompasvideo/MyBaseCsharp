@@ -1,0 +1,5 @@
+/Users/andrejbarysnikov/RiderProjects/AppStruct2/AppStruct2/obj/Debug/net6.0/AppStruct2.csproj.AssemblyReference.cache
+/Users/andrejbarysnikov/RiderProjects/AppStruct2/AppStruct2/obj/Debug/net6.0/AppStruct2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejbarysnikov/RiderProjects/AppStruct2/AppStruct2/obj/Debug/net6.0/AppStruct2.AssemblyInfoInputs.cache
+/Users/andrejbarysnikov/RiderProjects/AppStruct2/AppStruct2/obj/Debug/net6.0/AppStruct2.AssemblyInfo.cs
+/Users/andrejbarysnikov/RiderProjects/AppStruct2/AppStruct2/obj/Debug/net6.0/AppStruct2.csproj.CoreCompileInputs.cache

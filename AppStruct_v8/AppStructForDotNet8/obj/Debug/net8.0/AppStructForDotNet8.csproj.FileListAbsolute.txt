@@ -1,0 +1,14 @@
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/bin/Debug/net8.0/AppStructForDotNet8
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/bin/Debug/net8.0/AppStructForDotNet8.deps.json
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/bin/Debug/net8.0/AppStructForDotNet8.runtimeconfig.json
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/bin/Debug/net8.0/AppStructForDotNet8.dll
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/bin/Debug/net8.0/AppStructForDotNet8.pdb
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.AssemblyInfoInputs.cache
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.AssemblyInfo.cs
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.csproj.CoreCompileInputs.cache
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.dll
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/refint/AppStructForDotNet8.dll
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.pdb
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/AppStructForDotNet8.genruntimeconfig.cache
+/Users/andrejbarysnikov/Documents/Обучение/BaseC#/AppStruct_v8/AppStructForDotNet8/obj/Debug/net8.0/ref/AppStructForDotNet8.dll
